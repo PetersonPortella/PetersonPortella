@@ -32,6 +32,7 @@
 ![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp; 
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=green&labelColor=0D1117)&nbsp;
 
-
+<div align="center">
 https://petersonportella.github.io/Portifolio/
+</div>>
 
