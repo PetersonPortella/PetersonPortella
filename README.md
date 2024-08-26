@@ -34,7 +34,5 @@
 ![Mysql](https://img.shields.io/badge/-Mysql-0D1117?style=for-the-badge&logo=Mysql&logoColor=green&labelColor=0D1117)&nbsp;
 <br>
 
-<div align="center">
-https://petersonportella.github.io/Portifolio/
-</div>
+
 
