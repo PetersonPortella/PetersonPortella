@@ -1,6 +1,6 @@
 <img width = 100% src="https://capsule-render.vercel.app/api?color=F24F00"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F24F00&size=35&center=true&vCenter=true&width=1000&lines=Hello,+People;+I'm+Peterson+Portella;I'm+30+years+old;Degree+in+Web+development:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F24F00&size=35&center=true&vCenter=true&width=1000&lines=Hello,+People;+I'm+Peterson+Portella;Degree+in+Web+development:%29)](https://git.io/typing-svg)
 
 
 
