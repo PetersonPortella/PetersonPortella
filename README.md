@@ -1,6 +1,6 @@
 <img width = 100% src="https://capsule-render.vercel.app/api?color=F24F00"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F24F00&size=35&center=true&vCenter=true&width=1000&lines=Hello,+People;+I'm+Peterson+Portella;Degree+in+Web+development:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F24F00&size=35&center=true&vCenter=true&width=1000&lines=Hello,+People+Welcome;+I'm+Peterson+Portella;+I'm+Data+scientist:%29)](https://git.io/typing-svg)
 
 
 
@@ -28,9 +28,9 @@
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=Git&logoColor=green&labelColor=0D1117)&nbsp;
 
 ### Currently studying:
-![Angular](https://img.shields.io/badge/-Angular.js-0D1117?style=for-the-badge&logo=Angular&labelColor=0D1117)&nbsp;
-![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=Typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp; 
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&labelColor=0D1117)&nbsp;
+![R](https://img.shields.io/badge/-R-0D1117?style=for-the-badge&logo=R&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Sparks](https://img.shields.io/badge/-Sparks-0D1117?style=for-the-badge&logo=Sparks&logoColor=purple&labelColor=0D1117)&nbsp; 
 ![Mysql](https://img.shields.io/badge/-Mysql-0D1117?style=for-the-badge&logo=Mysql&logoColor=green&labelColor=0D1117)&nbsp;
 <br>
 
